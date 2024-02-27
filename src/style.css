@@ -6,6 +6,6 @@
 
  @layer base{
     *{
-        @apply m-0px p-0px box-border overflow-hidden outline-none
+        @apply m-0px p-0px box-border outline-none
     }
  }
